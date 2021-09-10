@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//peter-sq.github.io/TodoApp/static/css/main.a36d0459.chunk.css",
+    "main.js": "/https//peter-sq.github.io/TodoApp/static/js/main.69407511.chunk.js",
+    "main.js.map": "/https//peter-sq.github.io/TodoApp/static/js/main.69407511.chunk.js.map",
+    "runtime-main.js": "/https//peter-sq.github.io/TodoApp/static/js/runtime-main.5b2be0e9.js",
+    "runtime-main.js.map": "/https//peter-sq.github.io/TodoApp/static/js/runtime-main.5b2be0e9.js.map",
+    "static/js/2.e853d6f8.chunk.js": "/https//peter-sq.github.io/TodoApp/static/js/2.e853d6f8.chunk.js",
+    "static/js/2.e853d6f8.chunk.js.map": "/https//peter-sq.github.io/TodoApp/static/js/2.e853d6f8.chunk.js.map",
+    "static/js/3.0f402928.chunk.js": "/https//peter-sq.github.io/TodoApp/static/js/3.0f402928.chunk.js",
+    "static/js/3.0f402928.chunk.js.map": "/https//peter-sq.github.io/TodoApp/static/js/3.0f402928.chunk.js.map",
+    "index.html": "/https//peter-sq.github.io/TodoApp/index.html",
+    "static/css/main.a36d0459.chunk.css.map": "/https//peter-sq.github.io/TodoApp/static/css/main.a36d0459.chunk.css.map",
+    "static/js/2.e853d6f8.chunk.js.LICENSE.txt": "/https//peter-sq.github.io/TodoApp/static/js/2.e853d6f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b2be0e9.js",
+    "static/js/2.e853d6f8.chunk.js",
+    "static/css/main.a36d0459.chunk.css",
+    "static/js/main.69407511.chunk.js"
+  ]
+}
